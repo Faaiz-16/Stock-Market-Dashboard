@@ -1,0 +1,8 @@
+# Real-Time Stock Market Dashboard - Python Dependencies
+# Module 8: Final dependency list for local run and Streamlit Cloud
+
+streamlit>=1.32.0
+pandas>=2.2.0
+requests>=2.31.0
+plotly>=5.20.0
+curl_cffi>=0.7.0
