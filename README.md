@@ -309,6 +309,11 @@ The `.gitignore` excludes:
 ![Preview](docs/screenshots/1.png)
 ![Preview](docs/screenshots/2.png)
 ![Preview](docs/screenshots/3.png)
+![Preview](docs/screenshots/4.png)
+![Preview](docs/screenshots/5.png)
+![Preview](docs/screenshots/6.png)
+![Preview](docs/screenshots/7.png)
+![Preview](docs/screenshots/8.png)
 
 ---
 
