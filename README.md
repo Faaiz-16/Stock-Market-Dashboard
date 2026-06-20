@@ -304,27 +304,11 @@ The `.gitignore` excludes:
 
 ---
 
-## Screenshots to Take (Portfolio)
+## Screenshots 
 
-Save screenshots in `docs/screenshots/` for your README and resume.
-
-| # | Screenshot | How to capture |
-|---|------------|----------------|
-| 1 | **Full dashboard** | `AAPL` selected, `1 Month` range — capture the full browser window |
-| 2 | **Sidebar controls** | Crop or zoom on dropdown, search, date range, refresh, Quick Pick |
-| 3 | **Statistics cards** | All 9 metric cards visible |
-| 4 | **Candlestick chart** | Charts tab → Candlestick selected |
-| 5 | **Analytics section** | Scroll to analytics cards and summary box |
-| 6 | **Multi-stock demo** | Show `NVDA` or `GOOGL` loaded successfully |
-| 7 | **Error handling** | Search an invalid symbol like `INVALID123` — capture the friendly error |
-
-### Add screenshots to README (optional)
-
-After saving images to `docs/screenshots/`:
-
-```markdown
-![Dashboard](docs/screenshots/01-full-dashboard.png)
-```
+![Preview](docs/screenshots/1.png)
+![Preview](docs/screenshots/2.png)
+![Preview](docs/screenshots/3.png)
 
 ---
 
@@ -351,6 +335,8 @@ After saving images to `docs/screenshots/`:
 ---
 
 ## Author
+
+Faaiz Ali - alisyedfaaiz@gmail.com
 
 Built as a **Python Developer Internship** portfolio project.
 
